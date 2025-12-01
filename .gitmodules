@@ -1,3 +1,0 @@
-[submodule "plugins/claude-workbench"]
-	path = plugins/claude-workbench
-	url = https://github.com/michellepellon/claude-workbench.git
